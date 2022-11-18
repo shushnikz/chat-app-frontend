@@ -1,0 +1,12 @@
+.home__bg{
+    background-image: url(https://i0.wp.com/theparentcue.org/wp-content/uploads/2021/04/What-to-Do-When-Youre-Concerned-About-Your-Kids-New-Group-of-Friends-scaled.jpg?fit=2560%2C1707&ssl=1);
+    height:87vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+.home-message-icon {
+    margin-left:10px;
+    display: inline-block;
+}
